@@ -1,0 +1,37 @@
+[
+    {
+      "id": "1",
+      "category": "Salary",
+      "amount": 3000,
+      "transactionDate": "2024-08-01T00:00:00Z",
+      "type": "Income"
+    },
+    {
+      "id": "2",
+      "category": "Freelance",
+      "amount": 1200,
+      "transactionDate": "2024-08-05T00:00:00Z",
+      "type": "0"
+    },
+    {
+      "id": "3",
+      "category": "Investment",
+      "amount": 500,
+      "transactionDate": "2024-08-10T00:00:00Z",
+      "type": "0"
+    },
+    {
+      "id": "4",
+      "category": "Gift",
+      "amount": 250,
+      "transactionDate": "2024-08-15T00:00:00Z",
+      "type": "0"
+    },
+    {
+      "id": "5",
+      "category": "Bonus",
+      "amount": 1000,
+      "transactionDate": "2024-08-20T00:00:00Z",
+      "type": "0"
+    }
+  ]

@@ -1,0 +1,37 @@
+[
+    {
+      "id": "1",
+      "category": "Rent",
+      "amount": 1200,
+      "transactionDate": "2024-08-01T00:00:00Z",
+      "type": "1"
+    },
+    {
+      "id": "2",
+      "category": "Groceries",
+      "amount": 350,
+      "transactionDate": "2024-08-05T00:00:00Z",
+      "type": "1"
+    },
+    {
+      "id": "3",
+      "category": "Utilities",
+      "amount": 150,
+      "transactionDate": "2024-08-10T00:00:00Z",
+      "type": "1"
+    },
+    {
+      "id": "4",
+      "category": "Transportation",
+      "amount": 100,
+      "transactionDate": "2024-08-15T00:00:00Z",
+      "type": "1"
+    },
+    {
+      "id": "5",
+      "category": "Entertainment",
+      "amount": 200,
+      "transactionDate": "2024-08-20T00:00:00Z",
+      "type": "1"
+    }
+  ]

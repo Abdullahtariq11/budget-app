@@ -13,7 +13,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<AccessPage isLogin={isLogin} setIsLogin={setIsLogin}/>}/>
-          <Route path="/DashboardPAge" element={<DashboardPage />} />
+          <Route path="/DashboardPage" element={<DashboardPage />} />
           <Route path="/FinancePage" element={<FinancePage />} />
           <Route path="/ReportsPage" element={<ReportsPage />} />
         </Routes>
